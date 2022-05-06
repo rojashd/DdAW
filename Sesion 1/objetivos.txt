@@ -1,0 +1,22 @@
+1. aprender a utilizar el servidor web
+2. ejercicios practicos
+     desarrollar sitio web responsivo que contenga el menu de un restaurante con tres secciones
+     a. carnes
+     b. ensaladas
+     c. pastas
+
+     cada seccion debe tener su link propio y una tabla de precios y productos
+
+     por ejemplo:
+
+     pizza 100
+     spaghetti 200
+     pan de ajo 150 
+
+
+
+
+     formato de carpeta
+     ActividadS3S1
+
+     
