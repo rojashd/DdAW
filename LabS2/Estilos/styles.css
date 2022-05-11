@@ -90,7 +90,7 @@
         border-right:  1px solid gray;
     }
 
-    #nav >ul > li {
+    #nav >ul > li a {
         text-decoration: none;
         color: white;
         display: block;
