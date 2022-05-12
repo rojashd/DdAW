@@ -1,0 +1,26 @@
+Laboratorio Semana 2
+ 
+Desarrolle un sitio web que contenga la hoja de vida de todos los integrantes del grupo las secciones que debe incluir cada CV:
+ 
+Imagen de Perfil
+Breve Resumen de Personalidad
+Educación
+Experiencia Laboral
+ 
+ 
+Para esta asignación lo más importante para mí es que evaluare el archivo de estilos.css
+El archivo debe contener las siguientes características.
+ 
+ 
+Manejo de Imagenes (20%)
+Posicionamiento de Cajas (20%)
+Modelo de Cajas (20%)
+Manejo de colores todos en HEX (20%)
+Manejo de Fuentes (20%)
+  
+Para desarrollar esta actividad deberá ver los videos que se encuentran en la carpeta de Grabaciones / Laboratorio Semana 3 CSS/
+Nota: No debe usar las librerias de Bootstrap, sino archivos css propios y deben ser subidos al servidor web.
+ 
+Como tarea a subir en BlackBoard sera un archivo de word con el listado de los integrantes que colaboraron y el enlace del sitio.
+ 
+Colocar los archivos en el Servidor Web en una Sub Carpeta llamada Semana3Lab de su grupo.
