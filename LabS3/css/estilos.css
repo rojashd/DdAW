@@ -24,10 +24,6 @@ body{
 
 }
 
-a {
-    
-}
-
 /*header*/
 
 header{
@@ -81,12 +77,21 @@ header .textos-header{
 
 .imagen-about-us{
     width: 45%;
+    padding: 0px 15px 30px 15px;
+}
+
+.imagen-about-cv{
+    height: 180px;
+    width: 180px;
+    position: absolute;
+    float: inline-end;
+    padding: 0px 15px 30px 15px;
 }
 .sobre-nosotros .contenido-texts{
     width: 40%;
+    padding: 0px 15px 30px 15px;
 }
 .contenido-texts p{
-    padding: 0px 0px 30px 15px;
     font-weight: 3000;
     text-align: justify;
 }
