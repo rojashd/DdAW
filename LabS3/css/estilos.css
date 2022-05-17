@@ -71,8 +71,12 @@ header .textos-header{
 
 /*About us*/
 .contenedor-sobre-nosotros{
+    /*si no les gusta los bordes solo quita el margin y el box-shadow de aqui*/
+    margin: 10px;
+    box-shadow: 0 0 5px 0 #cd5c5c;
     display: flex;
     justify-content: space-evenly;
+    
 }
 
 .imagen-about-us{
@@ -90,16 +94,21 @@ header .textos-header{
 .sobre-nosotros .contenido-texts{
     width: 40%;
     padding: 0px 15px 30px 15px;
+   
+
 }
 .contenido-texts p{
     font-weight: 3000;
     text-align: justify;
 }
 
+
+
+
 /*Fotos*/
 
 .talentos{
-    background: #b8f6fa;
+    background: #f5f6f7;
 }
 .galeria-port{
     display: flex;
