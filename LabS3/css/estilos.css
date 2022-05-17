@@ -91,6 +91,15 @@ header .textos-header{
     right: 85px;
     /* padding: 0px 15px 30px 15px; */
 }
+
+.imagen-cv {
+    height: 180px;
+    width: 180px;
+    position: absolute;
+    right: 85px;
+}
+
+
 .sobre-nosotros .contenido-texts{
     width: 40%;
     padding: 0px 15px 30px 15px;
