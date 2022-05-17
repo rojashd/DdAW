@@ -84,8 +84,8 @@ header .textos-header{
     height: 180px;
     width: 180px;
     position: absolute;
-    float: inline-end;
-    padding: 0px 15px 30px 15px;
+    right: 85px;
+    /* padding: 0px 15px 30px 15px; */
 }
 .sobre-nosotros .contenido-texts{
     width: 40%;
