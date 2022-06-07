@@ -15,5 +15,5 @@ Desarrollar otra página web que realice los siguientes requerimientos:
 
 1. Llenar un arreglo con un ciclo FOR con todos los números del 1 al 10.
 2.Llenar un arreglo con un ciclo FOR con todos los números del 10 al 1.
-3.Imprimir en pantalla el contenido del Arreglo 1.
-4.Imprimir en pantalla el contenido del Arreglo 2.
+Imprimir en pantalla el contenido del Arreglo 1.
+Imprimir en pantalla el contenido del Arreglo 2.
