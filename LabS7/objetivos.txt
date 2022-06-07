@@ -1,0 +1,19 @@
+Ejercicios 1: (50%)
+
+Desarrollar una página de Inicio de sesión con los siguientes requerimientos:
+
+1. Solicitar El nombre de Usuario con una ventana prompt.
+2. Solicitar La contraseña con una ventana prompt.
+3. Debe guardar El usuario y la Contraseña en un arreglo.
+    a. Con un condicionante IF debe validar (Leyendo las posiciones del Arreglo donde guardo El usuario y la Contraseña).
+        Si el usuario es igual a “Messi” y la Contraseña es igual a “Goat”, entonces deberá escribir en pantalla, ¡¡“Bienvenido Messi!!”.
+    b. Si no se cumple la anterior condición, entonces deberá imprimir en pantalla, usuario no valido.
+
+Ejercicio 2: (50%)
+
+Desarrollar otra página web que realice los siguientes requerimientos:
+
+1. Llenar un arreglo con un ciclo FOR con todos los números del 1 al 10.
+2.Llenar un arreglo con un ciclo FOR con todos los números del 10 al 1.
+3.Imprimir en pantalla el contenido del Arreglo 1.
+4.Imprimir en pantalla el contenido del Arreglo 2.
