@@ -30,7 +30,7 @@ button {
     margin: 5px;
     padding: 0;
     border-radius: 32px;
-    font-size: 1.5em;
+    font-size: 25px;
     border: none;
     background-color:#454e58 ;
     box-shadow: 5px 5px 10px -3px #00000040, -5px -5px 15px -3px #1f2328;
@@ -63,12 +63,12 @@ button:focus {
     box-shadow: 0px 0px 0px 10px #00000030;
 }
 #valor-actual {
-    font-size: 1.5em;
+    font-size: 25px;
     color: #1f2328;
 }
 
 #valor-anterior{
-    font-size: 2em;
+    font-size: 32px;
     color: #1f2328;
 }
 
