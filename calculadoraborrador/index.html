@@ -1,0 +1,80 @@
+<html>
+
+    <head>
+        <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- Latest compiled and minified CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    
+    <!-- Latest compiled JavaScript -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;900&family=Roboto+Mono:ital,wght@0,400;0,700;1,400&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="estilos.css">
+    <title>Calculadora</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="main.js"></script>
+    </head>
+
+    <body>
+    <div class="container">
+        <div class="calculator">
+            <div class="window-controls">
+                <div class="window-controls--left">
+                    <span>
+                        <i class="demo-icon icon-calc"></i>
+                    </span>
+                    <span>Calculadora</span>
+                </div>
+                <div class="window-controls--right">
+                    <span>
+                        <i class="icon-window-minimize"></i>
+                    </span>
+                    <span>
+                        <i class="icon-window-maximize"></i>
+                    </span>
+                    <span>
+                        <i class="icon-cancel"></i>
+                    </span>
+                </div>
+            </div>
+            <div class="panel">
+               <input type="text" class="display__top" readonly>
+               <input type="text" class="display__bottom" readonly>
+            </div>
+         
+            <div class="keyboard">
+                <button class="columnauno" id="delete-one">&larr;</button>   
+                <button class="columnauno" id="7">7</button>
+                <button class="columnauno" id="4">4</button>
+                <button class="columnauno" id="1">1</button>
+                <button class="columnauno" id="0">0</button>
+                <button class="columnados" id="ce">ce</button>
+                <button class="columnados" id="8">8</button>
+                <button class="columnados" id="5">5</button>
+                <button class="columnados" id="2">2</button>
+                <button class="columnados" id="point">.</button>
+                <button class="columnatres" id="c">c</button>
+                <button class="columnatres" id="9">9</button>
+                <button class="columnatres" id="6">9</button>
+                <button class="columnatres" id="3">3</button>
+                <button class="columnatres" id="equal">=</button>
+                <button class="columnacuatro" id="div">/</button>
+                <button class="columnacuatro" id="mul">*</button>
+                <button class="columnacuatro" id="sub">-</button>
+                <button class="columnacuatro" id="sum">+</button>
+            </div>
+        
+       </div>
+        <script src="funciones.js"></script>
+        <script src="funciones.js"></script>
+    </body>
+
+
+</html>
+
+
+
+
