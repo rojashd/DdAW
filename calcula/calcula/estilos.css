@@ -1,0 +1,55 @@
+#mate {
+    height: 500px;
+    width: 320px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+#mate form{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(39, 38, 37);
+}
+#mate input[type=textfield] {
+    height: 27%;
+    width: 100%;
+    cursor: default;
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(39, 38, 37);
+    color: white;
+    padding: 25px;
+    text-align: right;
+    font-size: 50px;
+    border: 0px;
+    outline: auto;
+    
+
+}
+
+#mate input[type=button], input[type=reset] {
+     width: 24%;
+     cursor: pointer;
+     font-family: 'Roboto', sans-serif;
+     font-weight: bold;
+     font-size: 26px;
+     color: black;
+     padding: 19px;
+     margin: 2px 0 2px 0;
+     border: 5px;
+     
+
+}
+#mate .gray {
+    background-color: rgb(53, 50, 48) !important;
+    color: white !important;
+}
+
+#mate .orange {
+    background-color: rgb(243, 134, 45);
+    color: white !important;
+}
+
+#mate .graybaby {
+    background-color: rgb(83, 79, 76);
+    color: white !important;
+}
