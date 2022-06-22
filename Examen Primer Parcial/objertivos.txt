@@ -1,0 +1,24 @@
+Examen de Diseño de Apliacaciones WEB
+
+Instrucciones: Debera crear un sitio web cuyo contenido u objetivo es libre es decir podria crear el sitio de sus sueños, pero esta debe cumplir con un par de requerimientos:
+
+El sitio web debe tener una entrada en el menu Contactenenos con un Formulario y un Modal.
+Un Menu de todas las paginas del sitio. 
+Al menos una pagina debe tener css personalizado con las siguientes caracteristicas:
+Utilice el Modelo de Cajas para generar espacios entre las etiquetas.
+Utilice Colores Personalizados.
+Cambios de Fuentes
+Desarrolle al menos 5 tarjetas. 
+Utilice Botones Toggle.
+Utilice solo Imágenes Responsivas.
+Muestre una tabla responsiva puede ser de: precios, peliculas, juegos, etc. Esta tabla debe tener al menos 4 columnas y 5 filas.
+El sitio debe contener al menos 5 paginas.
+El sitio debe tener links a sus redes sociales o perfil de Linked In.
+Un parrafo exponiendo que aprendio ha aprendido en clase.
+
+
+Cada inciso tiene un costo de 10%
+
+En el codigo de su html o css debe crear comentarios donde usted indique que esta aplicando los incisos del examen. Si usted no hace esta instrucción se entendera que no cumplio con dicha condición.
+
+Se espera una carpeta comprimida de todo el sitio de forma individual. En la clase los alumnos van a decidir el tema de su pagina y su docente debera aprobarlo.

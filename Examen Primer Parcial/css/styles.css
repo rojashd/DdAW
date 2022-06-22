@@ -1,0 +1,94 @@
+/* fuentes */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;900&display=swap');
+
+
+
+/* estilos generales */
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+background-image: url(../img/pokeball.png);
+}
+
+h1, a {
+    text-decoration: none;
+    text-align: center;
+}
+
+h2{
+    background-color: beige;
+    box-shadow: inset;
+}
+
+/* encabezado */
+.nav{
+    width: 0px auto;
+    height: 0px auto;
+}
+
+#header{
+    background-color: beige;
+    /* width: 0px auto;
+    height: 0px auto; */
+}
+
+#header-image{
+    width: fit-content;
+    height: fit-content;
+}
+
+
+/* contenido principal */
+
+.contenedor-learned {
+    background-color: #909497;
+    margin: 10px;
+    box-shadow: 0 0 5px 0 #e1de11;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+
+.learned .contenido-texts {
+    width: 40%;
+    padding: 0px 15px 30px 15px;
+
+
+}
+
+.contenido-texts p {
+    font-weight: 3000;
+    text-align: justify;
+}
+
+/* pie de pagina */
+
+#footer{
+        padding: 30px 0 5px 0;
+        margin: 20px;
+        overflow: hidden;
+        background: #909497;
+}
+
+.contenedor-footer {
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    margin: auto;
+    padding-bottom: 50px;
+    border-bottom: 1px solid #e1de11;
+}
+
+.content-foo {
+    text-align: center;
+}
+
+p, a {
+    text-decoration: none;
+    color: white;
+}
