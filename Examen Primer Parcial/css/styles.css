@@ -92,3 +92,47 @@ p, a {
     text-decoration: none;
     color: white;
 }
+
+/* ! cart styles */
+
+.navbar{
+    display: fex;
+    flex-direction: row;
+    justify-content: space-between;
+    /* padding: 25px 60px;
+    background-color: #e1de11;
+    color: white; */
+}
+.cart{
+    background-color: white;
+    border-radius: 4px;
+    font-size: 20px;
+    position: relative;
+}
+
+.cartMonto {
+    font-size: 16px;
+    background-color: red;
+    color: white;
+    position: absolute;
+    top: -15px;
+    right: -10px;
+    padding: 3px;
+    border-radius: 4px;
+}
+
+/* ! cards details styles */
+
+
+.precio-cantidad{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.botones{
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+    font-size: 25px;
+}
